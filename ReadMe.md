@@ -17,7 +17,7 @@ A message will be displayed after user inputs and hit a button.
 ## Stack
 * Push(item)
   * Push an item to the top of the stack.
-  * Enter item name and hit the button to execute. For example, enter "a" and hit the button would put an item named a at the top.
+  * Enter item name and hit the button to execute. For example, enter "a" and hit the button would put an item named a at the top of the stack.
 * Pop
   * This button does not require any input, simply hit, and it will remove the item at the top of the stack.
 ## Queue
